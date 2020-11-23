@@ -11,7 +11,7 @@ The wiki skeleton consists of a number of markdown pages that cover many areas o
 ## Try it out!
 The Launch Pad is rendered from static markdown files using [docsify](https://docsify.js.org/). This automatically renders the markdown nicely into a website.
 
-**To view the rendered version of this repo visit here: [View the Rendered Launch Pad](/?)**
+**To view the rendered version of this repo visit here: [View the Rendered Launch Pad](https://newrelic.github.io/newrelic-ocoe-launch-pad/)**
 
 ## Installation
 
