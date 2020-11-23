@@ -15,7 +15,9 @@ The Launch Pad is rendered from static markdown files using [docsify](https://do
 
 ## Installation
 
-The wiki is marked up using markdown. Clone it and customise to your needs. You will find a number of `TODO` sections where you need to add your own information. The content can be imported to a tool of your choice or hosted directly as a static site. Should you be using GitHub Enterprise you could host it directly on GitHub using GitHub pages as in the example above.
+The wiki is marked up using markdown. Clone it and customise to your needs. You will find a number of `TODO` sections where you need to add your own information. Search for all of these and add your own content.
+
+> The content can be imported to a tool of your choice or hosted directly as a static site. Should you be using GitHub Enterprise you could host it directly on GitHub using GitHub pages as in the example above.
 
 
 ## Running Locally
