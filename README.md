@@ -15,7 +15,7 @@ The Launch Pad is rendered from static markdown files using [docsify](https://do
 
 ## Installation
 
-The wiki is marked up using markdown. Clone it and customise to your needs. It can be imported to a tool of your choice or hosted directly as a static site. Should you be using GitHub Enterprise you could host it directly on GitHub using GitHub pages as in the example above.
+The wiki is marked up using markdown. Clone it and customise to your needs. You will find a number of `TODO` sections where you need to add your own information. The content can be imported to a tool of your choice or hosted directly as a static site. Should you be using GitHub Enterprise you could host it directly on GitHub using GitHub pages as in the example above.
 
 
 ## Running Locally
@@ -33,14 +33,13 @@ You should now be able to browse the site at [localhost:3000](http://localhost:3
 
 ## Support
 
-New Relic hosts and moderates an online forum where customers can interact with New Relic employees as well as other customers to get help and share best practices. Like all official New Relic open source projects, there's a related Community topic in the New Relic Explorers Hub. You can find this project's topic/threads here:
+New Relic hosts and moderates an online forum where customers can interact with New Relic employees as well as other customers to get help and share best practices. Support for the Launch Pad is available from the project maintainers via the [GitHub issues](https://github.com/newrelic/newrelic-ocoe-launch-pad/issues) feature.
 
->URL TBC
 
 ## Contributing
 We encourage your contributions to improve the Launch Pad! Keep in mind when you submit your pull request, you'll need to sign the CLA via the click-through using CLA-Assistant. You only have to sign the CLA one time per project.
 If you have any questions, or to execute our corporate CLA, required if your contribution is on behalf of a company,  please drop us an email at opensource@newrelic.com.
 
 ## License
-[Project Name] is licensed under the [Apache 2.0](http://apache.org/licenses/LICENSE-2.0.txt) License.
+The Observability Centre of Excellence Launch Pad is licensed under the [Apache 2.0](http://apache.org/licenses/LICENSE-2.0.txt) License.
 

@@ -1,0 +1,14 @@
+{
+  "name": "launchpad",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "docsify serve docs"
+  },
+  "author": "",
+  "license": "ISC"
+}
