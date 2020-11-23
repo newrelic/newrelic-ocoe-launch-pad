@@ -3,7 +3,7 @@
 Here you can find information regarding the New Relic account and discover how to onboard to the platform.
 
 ## Request access to New Relic
-> TODO:  Explain the your user access request process.
+> TODO:  Explain your user access request process.
 
 To request access to New Relic... **[add your process here]**
 
