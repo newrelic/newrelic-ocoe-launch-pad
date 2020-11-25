@@ -15,7 +15,7 @@ Visit here to find out how to get help with all aspects of our observability too
 - **[Learning and training](sections/training/training.md)**  
 Find out about training courses, online self-paced learning and arranging instructor led enablement sessions.
 
-- **[Quick start reference](sections/reference/reference.md)**  
+- **[Quick start reference](sections/reference/quickstart.md)**  
 Some guidance on getting started with various aspects of observability tooling such as application performance monitoring, cloud integrations, infrastructure, etc.
 
 - **[Best practice and standards](sections/standards/standards.md)**  
