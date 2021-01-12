@@ -33,6 +33,21 @@ npm start
 
 You should now be able to browse the site at [localhost:3000](http://localhost:3000)
 
+
+## Hosting documentation
+The documentation can be hosted on github pages or by any simple http server. To use the prebuilt Docker container that hosts the site with pm2 do the following:
+
+To build the image:
+```
+docker build -t launchpad .
+```
+
+To run the image on port 8080:
+```
+docker run -p8080:8080 launchpad
+```
+
+
 ## Support
 
 New Relic hosts and moderates an online forum where customers can interact with New Relic employees as well as other customers to get help and share best practices. Support for the Launch Pad is available from the project maintainers via the [GitHub issues](https://github.com/newrelic/newrelic-ocoe-launch-pad/issues) feature.
