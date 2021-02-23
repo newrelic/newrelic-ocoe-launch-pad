@@ -30,3 +30,5 @@ For help with account setup, users, licences, usage etc contact the OCoE adminis
 - [New Relic Documentation](https://docs.newrelic.com/)  
 The New Relic documentation is comprehensive and easy to use. Use the search (or google) to find what you are looking for.
 
+- [Nerd Bytes](https://www.youtube.com/playlist?list=PLmhYj7Jl81JEV-llIDkCVC05tD7fbOv_b)
+Weekly tips, tricks, & ideas about New Relic and observability.
