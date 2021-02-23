@@ -10,5 +10,6 @@
     "start": "docsify serve docs"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {}
 }
