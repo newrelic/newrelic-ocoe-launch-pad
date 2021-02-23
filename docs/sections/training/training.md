@@ -7,7 +7,12 @@ Training is available both internally and from our observability providers.
 
 
 ## New Relic Training & Enablement
-New Relic offers many different enablement and training sessions. If you would like to arrange a specific session outside of regular scheduled session please discuss with the OCoE Administration team who can help arrange the sessions with the New Relic account team.
+New Relic offers many different enablement and training sessions. If you would like to arrange a specific session outside of regular scheduled session please discuss with the OCoE Administration team who can help arrange the sessions with the New Relic account team. 
+
+### Training Recording
+Previously run training and enablement sessions have been recorded. You may find them here:
+
+> TODO: Link to your repository of training recordings
 
 ### New Relic University: Online learning
 The [New Relic University (NRU)](https://learn.newrelic.com/) provides online courses that you can register and attend at your convenience. Some courses are available for immediate consumption whilst others are instructor led and require registration to attend. Visit the [NRU](https://learn.newrelic.com/) portal to view currently available courses.
@@ -18,6 +23,8 @@ An overview to the New Relic platform. Understand the core products and how to u
 - [2 day workshop: Full Stack Observability](https://learn.newrelic.com/page/event-registration)  
 These 2 day workshops are run regularly and require registration.  
 
+#### NRQL Lessons Self-paced learning Application
+To learn more about the New Relic query language and how to query data you may wish to use the "[NRQL Lessons](https://opensource.newrelic.com/projects/newrelic/nr1-learn-nrql)" application. This self-paced application teaches you step by step how to query the data and how to use the advanced features of the language. Find it in the 'Apps' section on New Relic.
 
 ### Get started documentation
 New Relic provides getting started guides for many of the platform features. Here are some good starting points to get an overview of the platform and its capabilities:
