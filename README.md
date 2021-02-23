@@ -17,7 +17,7 @@ The Launch Pad is rendered from static markdown files using [docsify](https://do
 
 The wiki is marked up using markdown. Clone it and customise to your needs. You will find a number of `TODO` sections where you need to add your own information. Search for all of these and add your own content.
 
-> The content can be imported to a tool of your choice or hosted directly as a static site. Should you be using GitHub Enterprise you could host it directly on GitHub using GitHub pages as in the example above.
+> The content can be imported to a tool of your choice or hosted directly as a static html site. Should you be using GitHub Enterprise you could host it directly on GitHub using GitHub pages as in the example above. Please understand that GitHub pages are public though so ensure you site is secure and do not host on public GitHub pages.
 
 
 ## Running Locally
@@ -35,7 +35,7 @@ You should now be able to browse the site at [localhost:3000](http://localhost:3
 
 
 ## Hosting documentation
-The documentation can be hosted on github pages or by any simple http server. To use the prebuilt Docker container that hosts the site with pm2 do the following:
+The documentation can be hosted on github pages or by any simple http server. To use the pre-built Docker container that hosts the site with pm2 do the following:
 
 To build the image:
 ```
@@ -47,6 +47,7 @@ To run the image on port 8080:
 docker run -p8080:8080 launchpad
 ```
 
+View the site at http://localhost:8080
 
 ## Support
 
